@@ -27,7 +27,7 @@ body {
     padding: 50px;
     text-align: center;
     background-color: #474e5d;
-    color: white;
+    color: black;
   }
   
   .container {
@@ -41,7 +41,7 @@ body {
   }
   
   .title {
-    color: grey;
+    color: blue;
   }
   
   .button {
@@ -49,7 +49,7 @@ body {
     outline: 0;
     display: inline-block;
     padding: 8px;
-    color: white;
+    color: yellow;
     background-color: #000;
     text-align: center;
     cursor: pointer;
